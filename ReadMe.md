@@ -32,6 +32,6 @@ I welcome contributions from the community! If you have ideas for new projects, 
 
 ## Connect with Me
 
-If you have any questions, feedback, or just want to say hello, feel free to reach out to me. You can find me on [GitHub](https://github.com/your_username), [LinkedIn](https://www.linkedin.com/in/your_profile), or via email. I'm always eager to connect with like-minded individuals who share a passion for technology and innovation.
+If you have any questions, feedback, or just want to say hello, feel free to reach out to me. You can find me on [GitHub](https://github.com/halas77), [LinkedIn](https://www.linkedin.com/in/your_profile), or via email. I'm always eager to connect with like-minded individuals who share a passion for technology and innovation.
 
 Thank you for visiting, and happy coding!
